@@ -5,7 +5,7 @@ Desafio do curso full-stack da DIO através do Santander.
 
 * Habilidades    
 
-   * Python :snack: - Intermediário
+   * Python :snake- Intermediário
 
    * MySQL :game_die: - Iniciante
 ([Projeto em Python e MySQL](https://github.com/Alyssandro1771415/Python_TECHDATA)
