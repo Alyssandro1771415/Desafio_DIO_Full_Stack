@@ -8,8 +8,9 @@ Desafio do curso full-stack da DIO através do Santander.
    * Python :snake- Intermediário
 
    * MySQL :game_die: - Iniciante
-([Projeto em Python e MySQL](https://github.com/Alyssandro1771415/Python_TECHDATA)
-[Projeto em Python - Validador de CPF](https://github.com/Alyssandro1771415/Validador_de_CPF))
+([Projeto em Python e MySQL](https://github.com/Alyssandro1771415/Python_TECHDATA))
+
+([Projeto em Python - Validador de CPF](https://github.com/Alyssandro1771415/Validador_de_CPF))
 
    * HTML5 - Intermediário
 
