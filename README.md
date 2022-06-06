@@ -1,9 +1,9 @@
 # Desafio_DIO_Full_Stack
 Desafio do curso full-stack da DIO através do Santander.
 
-#Nome:Alyssandro
+# Nome:Alyssandro
 
-*Habilidades    
+* Habilidades    
 
    *Python :snack: - Intermediário
 
