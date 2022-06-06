@@ -3,7 +3,7 @@ Desafio do curso full-stack da DIO através do Santander.
 
 #Nome:Alyssandro
 
---- *Habilidades ---
+    *Habilidades    
 
    *Python :snack: - Intermediário
    *MySQL :game_die: - Iniciante
