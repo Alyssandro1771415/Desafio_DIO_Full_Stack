@@ -5,7 +5,7 @@ Desafio do curso full-stack da DIO através do Santander.
 
 * Habilidades    
 
-   * Python :snake- Intermediário
+   * Python :snake:- Intermediário
 ([Projeto em Python - Validador de CPF](https://github.com/Alyssandro1771415/Validador_de_CPF))
    * MySQL :game_die: - Iniciante
 ([Projeto em Python e MySQL](https://github.com/Alyssandro1771415/Python_TECHDATA))
